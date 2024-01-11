@@ -1,0 +1,5 @@
+profile: dev-1.0
+datasource:
+  url: jdbc:mysql://localhost:3306/xs?useUnicode=true&characterEncoding=utf8&allowMultiQueries=true&serverTimezone=Asia/Shanghai&useSSL=false
+  username: root
+  password: 123456
