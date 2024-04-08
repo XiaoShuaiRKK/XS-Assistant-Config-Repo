@@ -9,3 +9,7 @@ datasource:
 ip:
   db:
     path: https://github.com/XiaoShuaiRKK/XS-Assistant-Config-Repo/blob/main/data/ip2region.xdb
+    algorithm:
+      pbkdf2:
+        password:
+          secret: xs51dwdg1f!ada6^&dadanjadw#@2asd62xcahawdassistantcookdwanngj645*9451d9(ml221Pdda-{:Ldapa5xc454jihubwd*#njihk%%Gdsf45!SD4155gg[8
